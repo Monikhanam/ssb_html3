@@ -1,0 +1,28 @@
+
+.color{
+	color: blue;
+	font-size: 17px;
+	border: 5px dotted black;
+}
+
+h1{
+	color: blue;
+}
+.box{
+	border: 5px solid blue;
+}
+.password, .rpassword{
+	width: 26%;
+}
+table{
+	width: 100%;
+	border: 2px solid black;
+}
+th,td{
+	text-align: center;
+	border: 2px solid black
+}
+h2,h3{
+	text-align: center;
+	color: blue;
+}
